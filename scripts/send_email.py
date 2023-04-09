@@ -1,6 +1,7 @@
 import os
 import datetime
 import smtplib
+import subprocess
 from dotenv import load_dotenv
 from email import encoders
 from email.mime.base import MIMEBase
@@ -16,7 +17,10 @@ recipient_email = os.getenv("EMAIL_USERNAME")
 datetime = datetime.datetime.now().strftime('%d-%m-%Y-%H-%M-%S')
 
 subject = f"TKDJ backup - {datetime}"
-body = ""
+
+# Execute the Bash script and capture the machine
+output = subprocess.check_output(['./get_stats.sh'])
+body = output.decode() # include stats into email body
 
 with open("backup.json", "rb") as attachment:
     # Add the attachment to the message

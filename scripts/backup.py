@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set up Firebase Admin SDK
-cred = credentials.Certificate('service_account.json') # replace with your own service account key
+cred = credentials.Certificate('../service_account.json') # replace with your own service account key
 firebase_admin.initialize_app(cred, {
     'databaseURL': os.getenv("DATABASE_URL") # replace with your own database URL
 })
