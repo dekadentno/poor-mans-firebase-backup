@@ -12,7 +12,7 @@ To generate a private key file for your service account:
 1. In the Firebase console, open Settings > Service Accounts.
 2. Click Generate New Private Key, then confirm by clicking Generate Key.
 3. Securely store the JSON file containing the key and rename it to `service_account.json`
-4. execute `npm run backup && npm run send_email.js`
+4. execute `npm run all`
 
 
 ```bash
