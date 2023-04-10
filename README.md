@@ -31,3 +31,15 @@ npm run email
 # or you can do it together like so
 npm run all
 ```
+
+## Using it in a cron job
+
+Here is an example cron job that executes the npm run test command every day at 23:59.
+
+```
+# open the crontab editor
+crontab -e
+
+# add the following line to the end of the file, with the real path
+59 23 * * * /usr/bin/npm run all --prefix /path/to/your/project
+```
