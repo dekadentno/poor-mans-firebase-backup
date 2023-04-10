@@ -1,0 +1,2114 @@
+{
+  "isMaintenanceMode": false,
+  "reservations": {
+    "-N0rhd6XwwNtKLiyr0Bu": {
+      "courtId": 2,
+      "date": "30/04/2022",
+      "periodId": 4,
+      "price": 90,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N0v-LUcJt7djSc2Qm7S": {
+      "courtId": 2,
+      "date": "30/04/2022",
+      "periodId": 7,
+      "price": 20,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N1-sRjJAVtmHJFOygJ7": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 4,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N10g6cJdlEqzQ0LRpT3": {
+      "courtId": 3,
+      "date": "02/05/2022",
+      "periodId": 5,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N10hAXG8WcoL6CLk5yH": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 6,
+      "price": 20,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N10qBgfzd7FZJgrcZA4": {
+      "courtId": 1,
+      "date": "02/05/2022",
+      "periodId": 2,
+      "price": 0,
+      "type": 2,
+      "userId": "goI0cEtyPWNkAdtxMXWHMYP2b512"
+    },
+    "-N10qD-Hf7MJoB7ZFxyN": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 5,
+      "price": 90,
+      "type": 1,
+      "userId": "goI0cEtyPWNkAdtxMXWHMYP2b512"
+    },
+    "-N10qIcp8_6TQX6lZ1AX": {
+      "courtId": 1,
+      "date": "02/05/2022",
+      "periodId": 5,
+      "price": 0,
+      "type": 2,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N10r6yuHJntMIZnesOg": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 8,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rI-tFEWLQdLG4ZDO": {
+      "courtId": 4,
+      "date": "02/05/2022",
+      "periodId": 1,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rJ3WgUFVPsNc03wK": {
+      "courtId": 3,
+      "date": "02/05/2022",
+      "periodId": 2,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rJrptRd12DoAyN_3": {
+      "courtId": 3,
+      "date": "02/05/2022",
+      "periodId": 3,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rKnHjdd5HXdod56k": {
+      "courtId": 3,
+      "date": "02/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rLat50lCLeTrW9wa": {
+      "courtId": 3,
+      "date": "02/05/2022",
+      "periodId": 8,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rNHveu-_IhubC3lt": {
+      "courtId": 1,
+      "date": "02/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rOVxPzp8RmzW2zMP": {
+      "courtId": 1,
+      "date": "02/05/2022",
+      "periodId": 8,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N10rwwpEbhHaC1dbl4S": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 2,
+      "price": 0,
+      "type": 3,
+      "userId": "9G6R57Yrg4TIkp6Q5aTIhqfCtqn2"
+    },
+    "-N10rxaX1S5_dDFxC2dj": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 3,
+      "price": 0,
+      "type": 3,
+      "userId": "9G6R57Yrg4TIkp6Q5aTIhqfCtqn2"
+    },
+    "-N10ryLI-ARjVGleNTLj": {
+      "courtId": 2,
+      "date": "02/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 3,
+      "userId": "9G6R57Yrg4TIkp6Q5aTIhqfCtqn2"
+    },
+    "-N12pjpZs1yDwsjk1JdT": {
+      "courtId": 1,
+      "date": "02/05/2022",
+      "periodId": 4,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N14LquudD6Awp0ulNqW": {
+      "courtId": 5,
+      "date": "02/05/2022",
+      "periodId": 9,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N14cd-ZDrhjAAEc9TIE": {
+      "courtId": 4,
+      "date": "02/05/2022",
+      "periodId": 9,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N14wHLAmWlUF_USLpUO": {
+      "courtId": 1,
+      "date": "03/05/2022",
+      "periodId": 2,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N14wJ0rqgdLiT1s5s3z": {
+      "courtId": 1,
+      "date": "03/05/2022",
+      "periodId": 3,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N15ToebW4sSk7f9hqbH": {
+      "courtId": 2,
+      "date": "06/05/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N15x2xV_eM_pWx2tNDt": {
+      "courtId": 2,
+      "date": "03/05/2022",
+      "periodId": 4,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N15xCoz4pE0TO2d0knp": {
+      "courtId": 2,
+      "date": "03/05/2022",
+      "periodId": 3,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N164g15AISUuJqA3Nfc": {
+      "courtId": 2,
+      "date": "03/05/2022",
+      "periodId": 2,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N16Cs8re-Rnx6ZzcHT1": {
+      "courtId": 1,
+      "date": "03/05/2022",
+      "periodId": 6,
+      "price": 20,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N16Ct4aTG8i0-DORzKh": {
+      "courtId": 6,
+      "date": "03/05/2022",
+      "periodId": 1,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N16DAZ35zv2GVf_hdiA": {
+      "courtId": 9,
+      "date": "03/05/2022",
+      "periodId": 4,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N16DWdbnW6gz1fDPnaK": {
+      "courtId": 1,
+      "date": "03/05/2022",
+      "periodId": 5,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N16DXUWmNwp0dB8QjC7": {
+      "courtId": 2,
+      "date": "03/05/2022",
+      "periodId": 5,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N16D_3G0X0kO1EkqrKb": {
+      "courtId": 1,
+      "date": "03/05/2022",
+      "periodId": 1,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N1A2f4SQzKbeco7ziOb": {
+      "courtId": 4,
+      "date": "03/05/2022",
+      "periodId": 9,
+      "price": 90,
+      "type": 1,
+      "userId": "QN3EbwdYhXcP8VqdxkxVGd3GyHy1"
+    },
+    "-N1A3-Xq4UvfdLhOwa6t": {
+      "courtId": 1,
+      "date": "04/05/2022",
+      "periodId": 1,
+      "price": 90,
+      "type": 1,
+      "userId": "QN3EbwdYhXcP8VqdxkxVGd3GyHy1"
+    },
+    "-N1A5WamYqw116W9ak_2": {
+      "courtId": 2,
+      "date": "13/05/2022",
+      "periodId": 5,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N1ACNMaKK_gOJi17F8E": {
+      "courtId": 1,
+      "date": "04/05/2022",
+      "periodId": 5,
+      "price": 90,
+      "type": 1,
+      "userId": "QN3EbwdYhXcP8VqdxkxVGd3GyHy1"
+    },
+    "-N1Ez1Xf2xyTzs1om3t1": {
+      "courtId": 6,
+      "date": "04/05/2022",
+      "periodId": 9,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N1Tobl4H-mhZa_DGlwT": {
+      "courtId": 5,
+      "date": "07/05/2022",
+      "periodId": 9,
+      "price": 35,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N1VDzSFRaJkPkQYCH5_": {
+      "courtId": 1,
+      "date": "08/05/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "4cbF8jIcuMhuCU8bDANxrVoc0iC3"
+    },
+    "-N1VEANClJa6egIXrZam": {
+      "courtId": 2,
+      "date": "08/05/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N28G4dy-0lUNhJa4HBw": {
+      "courtId": 2,
+      "date": "16/05/2022",
+      "periodId": 3,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N28GQv8ETGAQSN8h8jd": {
+      "courtId": 2,
+      "date": "16/05/2022",
+      "periodId": 4,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N3LMICO3TeSThdq0s4F": {
+      "courtId": 1,
+      "date": "31/05/2022",
+      "periodId": 3,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMKeCIhV_tOrmPda1": {
+      "courtId": 2,
+      "date": "31/05/2022",
+      "periodId": 5,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMMMLzAuRnYNHJyQM": {
+      "courtId": 1,
+      "date": "31/05/2022",
+      "periodId": 4,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N3LMZcwQbk6-ISknekk": {
+      "courtId": 2,
+      "date": "31/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 2,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N3LMaqirePMv05bbQve": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 3,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMbmGbuDvNw29sp2p": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 4,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMcV4r9HGr6iTkeQF": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 5,
+      "price": 0,
+      "type": 4,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMdPNuQmG9EZRq1AJ": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 6,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMe9iV-cYfbp1tqlJ": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LMerUh6GlPmt8ipkQ": {
+      "courtId": 3,
+      "date": "31/05/2022",
+      "periodId": 8,
+      "price": 0,
+      "type": 5,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N3LNufr3OQKU7SJ9kC3": {
+      "courtId": 1,
+      "date": "31/05/2022",
+      "periodId": 7,
+      "price": 0,
+      "type": 2,
+      "userId": "rcKKYFqmHWfLtfUCl1ozkLRTFJ52"
+    },
+    "-N3LVCrL5_d4nTLVjEla": {
+      "courtId": 1,
+      "date": "31/05/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "rcKKYFqmHWfLtfUCl1ozkLRTFJ52"
+    },
+    "-N412RT-McS7QY8eUEJ-": {
+      "courtId": 1,
+      "date": "08/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N413TMy3mOi6d2KmnyS": {
+      "courtId": 2,
+      "date": "08/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N417ZEWL23KdJ-Y-zgN": {
+      "courtId": 1,
+      "date": "08/06/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N418m7emF05y5okaG1o": {
+      "courtId": 1,
+      "date": "08/06/2022",
+      "periodId": 4,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N418nNUIfg66lUVZhs0": {
+      "courtId": 2,
+      "date": "08/06/2022",
+      "periodId": 4,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N419CKytuMYzWCviLsJ": {
+      "courtId": 1,
+      "date": "08/06/2022",
+      "periodId": 8,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N419rlRZmUsnGRHJTk9": {
+      "courtId": 3,
+      "date": "08/06/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N41RrvK_T5yEuFgls8m": {
+      "courtId": 2,
+      "date": "09/06/2022",
+      "periodId": 1,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N42azGpcViEYFo-wx0i": {
+      "courtId": 2,
+      "date": "08/06/2022",
+      "periodId": 8,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N42w4p2aiJErPMPKQA0": {
+      "courtId": 5,
+      "date": "08/06/2022",
+      "periodId": 9,
+      "price": 35,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N472ztFQbBz6BkszENh": {
+      "courtId": 4,
+      "date": "09/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4733zzf_bshu8IFeBB": {
+      "courtId": 5,
+      "date": "09/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4735Shy0Tkgx9Y6MQK": {
+      "courtId": 6,
+      "date": "09/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N47375stUqEgoORH60F": {
+      "courtId": 7,
+      "date": "09/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4Hh5NxjoHfPP3BjfNE": {
+      "courtId": 1,
+      "date": "12/06/2022",
+      "periodId": 6,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4MfWw-lyRDvarIyUwz": {
+      "courtId": 1,
+      "date": "12/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4ThwwyvX8T-XsodCSW": {
+      "courtId": 2,
+      "date": "14/06/2022",
+      "periodId": 3,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4W6SCoOdP31Zq_6lo1": {
+      "courtId": 5,
+      "date": "14/06/2022",
+      "periodId": 2,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4Xz1x8Pw89-OrS8Ht9": {
+      "courtId": 4,
+      "date": "16/06/2022",
+      "periodId": 7,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N4q6aoggq-VZslK3a_l": {
+      "courtId": 2,
+      "date": "18/06/2022",
+      "periodId": 3,
+      "price": 90,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N5A_UbFchCB2c1XVLW-": {
+      "courtId": 12,
+      "date": "22/06/2022",
+      "periodId": 7,
+      "price": 60,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N5A_WHWPq2RXsCDyRaX": {
+      "courtId": 1,
+      "date": "22/06/2022",
+      "periodId": 5,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-N5AcZxfdejEzl2L92Wn": {
+      "courtId": 2,
+      "date": "22/06/2022",
+      "periodId": 5,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-N5EvwHetbEL57JuPjAW": {
+      "courtId": 1,
+      "date": "23/06/2022",
+      "periodId": 7,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-ND9YJWMpYd61vrTthXf": {
+      "courtId": 2,
+      "date": "30/09/2022",
+      "periodId": 4,
+      "price": 10,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NFjmdlfA51jxS67l9nB": {
+      "courtId": 2,
+      "date": "01/11/2022",
+      "periodId": 3,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-NFjyfUfDpkqmNNLJqFD": {
+      "courtId": 1,
+      "date": "02/11/2022",
+      "periodId": 3,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-NGmiag-pakCUTXtPZab": {
+      "courtId": 3,
+      "date": "14/11/2022",
+      "periodId": 3,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-NHLsappjpYpk0shle43": {
+      "courtId": 1,
+      "date": "21/11/2022",
+      "periodId": 2,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-NHLwCRi21X6qDRYOzEJ": {
+      "courtId": 1,
+      "date": "21/11/2022",
+      "periodId": 3,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwDBMVvA8jKvx7ICw": {
+      "courtId": 3,
+      "date": "21/11/2022",
+      "periodId": 4,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwDt9pewHN3LY4LHp": {
+      "courtId": 11,
+      "date": "21/11/2022",
+      "periodId": 5,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwEaWBEVdkYmU6mLj": {
+      "courtId": 12,
+      "date": "21/11/2022",
+      "periodId": 4,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwOryNPBURnh4Po9G": {
+      "courtId": 11,
+      "date": "21/11/2022",
+      "periodId": 2,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwPWEld7MsSp1bdvB": {
+      "courtId": 11,
+      "date": "19/11/2022",
+      "periodId": 3,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwQWVA4hnHlM_wOKV": {
+      "courtId": 3,
+      "date": "19/11/2022",
+      "periodId": 6,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NHLwRA0566qwMAy-xlH": {
+      "courtId": 1,
+      "date": "19/11/2022",
+      "periodId": 5,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NRYllA0gaOjzTPR-D_N": {
+      "courtId": 8,
+      "date": "27/03/2023",
+      "periodId": 6,
+      "price": 80,
+      "type": 1,
+      "userId": "TvSEyoB3vIUqvHLGTW7XjkjVuW02"
+    },
+    "-NRYloeXX9wfdX3k9Emx": {
+      "courtId": 9,
+      "date": "27/03/2023",
+      "periodId": 6,
+      "price": 60,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NRYpS4x5FE3EA99Y9oI": {
+      "courtId": 1,
+      "date": "28/03/2023",
+      "periodId": 1,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NRYt4tkEGFopFFD0_yj": {
+      "courtId": 3,
+      "date": "28/03/2023",
+      "periodId": 3,
+      "price": 0,
+      "type": 3,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt5mJ1DyGOta3vOCM": {
+      "courtId": 3,
+      "date": "28/03/2023",
+      "periodId": 4,
+      "price": 0,
+      "type": 3,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt6OTDgs6Is45llJI": {
+      "courtId": 3,
+      "date": "28/03/2023",
+      "periodId": 5,
+      "price": 0,
+      "type": 3,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt6rzHXkR6cZeTRi_": {
+      "courtId": 3,
+      "date": "28/03/2023",
+      "periodId": 6,
+      "price": 0,
+      "type": 3,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt7LgwKP13DMQtfEu": {
+      "courtId": 3,
+      "date": "28/03/2023",
+      "periodId": 7,
+      "price": 0,
+      "type": 3,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt8RIePVWDEy5N7ym": {
+      "courtId": 11,
+      "date": "28/03/2023",
+      "periodId": 3,
+      "price": 0,
+      "type": 5,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt99TCYNIgfedThG4": {
+      "courtId": 11,
+      "date": "28/03/2023",
+      "periodId": 4,
+      "price": 0,
+      "type": 5,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYt9t22TQk6YLAOTS1": {
+      "courtId": 11,
+      "date": "28/03/2023",
+      "periodId": 5,
+      "price": 0,
+      "type": 5,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYtAYMJCo8lrTeqDHN": {
+      "courtId": 11,
+      "date": "28/03/2023",
+      "periodId": 6,
+      "price": 0,
+      "type": 4,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRYtBCxxc2vukk6zOpa": {
+      "courtId": 11,
+      "date": "28/03/2023",
+      "periodId": 7,
+      "price": 0,
+      "type": 4,
+      "userId": "PuN45UeNk7cP292mtNcCQ4jiuBf1"
+    },
+    "-NRncCv_Nd6mM6HqKP41": {
+      "courtId": 1,
+      "date": "31/03/2023",
+      "periodId": 1,
+      "price": 40,
+      "type": 1,
+      "userId": "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2"
+    },
+    "-NRncSsHDvovQ1zYY3an": {
+      "courtId": 11,
+      "date": "31/03/2023",
+      "periodId": 4,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NRncVMFUJuWcGvRuSv5": {
+      "courtId": 3,
+      "date": "31/03/2023",
+      "periodId": 6,
+      "price": 0,
+      "type": 5,
+      "userId": "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2"
+    },
+    "-NRncWNdLTOjcFhe4KET": {
+      "courtId": 3,
+      "date": "31/03/2023",
+      "periodId": 7,
+      "price": 0,
+      "type": 5,
+      "userId": "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2"
+    },
+    "-NRncavdzN7IPhiIpOLo": {
+      "courtId": 12,
+      "date": "31/03/2023",
+      "periodId": 2,
+      "price": 40,
+      "type": 1,
+      "userId": "NcaT4jGlShRcLenIYviynuhXTME3"
+    },
+    "-NRnccCN1mP4lt_o99h7": {
+      "courtId": 1,
+      "date": "31/03/2023",
+      "periodId": 2,
+      "price": 40,
+      "type": 1,
+      "userId": "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2"
+    },
+    "-NRndBOjz8W-n8Ph9Wy7": {
+      "courtId": 11,
+      "date": "31/03/2023",
+      "periodId": 2,
+      "price": 80,
+      "type": 1,
+      "userId": "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2"
+    }
+  },
+  "users": {
+    "1iTPg99rs4TIOSP4EqZtYQyL83D2": {
+      "balance": 700,
+      "createdAt": "07/05/2022",
+      "email": "xokuj@robot-mail.com",
+      "feeType": 1,
+      "firstName": "student",
+      "hasFreeReservation": false,
+      "lastName": "vjecni",
+      "payments": {
+        "-NHM2FrsCw8i84i_OJTd": {
+          "amount": "100",
+          "date": "20/11/2022",
+          "type": 1
+        },
+        "-NHM2GlfDtP8wIq9efXI": {
+          "amount": "200",
+          "date": "20/11/2022",
+          "type": 1
+        },
+        "-NHM2HSxZTygPOYMG3Ar": {
+          "amount": "300",
+          "date": "20/11/2022",
+          "type": 1
+        },
+        "-NHM2IiaBiTAB0Hc2XF7": {
+          "amount": "50",
+          "date": "20/11/2022",
+          "type": 2
+        },
+        "-NHM2Jrf6iLY-_De--lG": {
+          "amount": "25",
+          "date": "20/11/2022",
+          "type": 2
+        },
+        "-NHM2LbvFoQoOAD4qxs0": {
+          "amount": "1000",
+          "date": "20/11/2022",
+          "period": "11/2022",
+          "type": 3
+        },
+        "-NHM3CdOd2kIPzhJhyDP": {
+          "amount": "100",
+          "date": "20/11/2022",
+          "type": 1
+        },
+        "-NHM3Dr1FpgtrjkBZ7iW": {
+          "amount": "200",
+          "date": "20/11/2022",
+          "type": 2
+        },
+        "-NHM3Epb-0tj0vKquH-S": {
+          "amount": "300",
+          "date": "20/11/2022",
+          "period": "11/2022",
+          "type": 3
+        },
+        "oQasZ74CRHEKSmxEb-JzA": {
+          "amount": 0,
+          "date": "07/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123",
+      "userType": 1
+    },
+    "2Wxkh3o34MOXt6N6xwPwkvRe9S42": {
+      "createdAt": "30/05/2022",
+      "email": "tenisac@getnada.com",
+      "feeType": 2,
+      "firstName": "Roger",
+      "hasFreeReservation": false,
+      "lastName": "Federer",
+      "payments": {
+        "A7ER6FVhBMCdrwsmO1b3a": {
+          "amount": 0,
+          "date": "30/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "091123123",
+      "userType": 1
+    },
+    "4cbF8jIcuMhuCU8bDANxrVoc0iC3": {
+      "createdAt": "07/05/2022",
+      "email": "sexodyrax@tafmail.com",
+      "feeType": 2,
+      "firstName": "test",
+      "hasFreeReservation": false,
+      "lastName": "test",
+      "payments": {
+        "ENqYZt2Ite9pMMfm03NFQ": {
+          "amount": 0,
+          "date": "07/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 1
+    },
+    "9G6R57Yrg4TIkp6Q5aTIhqfCtqn2": {
+      "createdAt": "02/05/2022",
+      "email": "cijokoxa@vomoto.com",
+      "feeType": 4,
+      "firstName": "Trener",
+      "hasFreeReservation": false,
+      "lastName": "Marinko",
+      "payments": {
+        "vOGCjyCs8R7R-F4mcnsp2": {
+          "amount": 0,
+          "date": "02/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 3
+    },
+    "BAwW17DbWDTcaF1OTB4tiRHKEi82": {
+      "balance": 1000,
+      "createdAt": "06/05/2022",
+      "email": "tihomir.svalina@gmail.com",
+      "feeType": 2,
+      "firstName": "Tihomir",
+      "hasFreeReservation": false,
+      "lastName": "Svalina",
+      "payments": {
+        "-N1PhwBPFR0m8VUxP7wv": {
+          "amount": "1000",
+          "date": "06/05/2022",
+          "type": 1
+        },
+        "-N1PhzqWRm3UGP4R7AUD": {
+          "amount": "300",
+          "date": "06/05/2022",
+          "type": 2
+        },
+        "ubKLUUw-Tvhv9edAd-TMJ": {
+          "amount": 0,
+          "date": "06/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "0911111111",
+      "userType": 1
+    },
+    "MUE5d6Dj0PRzrhRsSI4yL6LOtDe2": {
+      "balance": 555,
+      "createdAt": "30/03/2023",
+      "email": "teniski@abyssmail.com",
+      "feeType": 2,
+      "firstName": "Teniski",
+      "lastName": "test",
+      "payments": {
+        "-NRnblNyilv-ONQW8hvg": {
+          "amount": "1000",
+          "date": "30/03/2023",
+          "type": 2
+        },
+        "-NRnc7LPGY9YhTmFkJyM": {
+          "amount": "555",
+          "date": "30/03/2023",
+          "type": 1
+        },
+        "-NRncChvRIc2iMe8vdMl": {
+          "amount": 40,
+          "date": "30/03/2023",
+          "type": 4
+        },
+        "-NRncc4Pdf2GCSOE55fq": {
+          "amount": 40,
+          "date": "30/03/2023",
+          "type": 4
+        },
+        "0SA7UChQnkmgfUjUBKVJA": {
+          "amount": 0,
+          "date": "30/03/2023",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 1
+    },
+    "NcaT4jGlShRcLenIYviynuhXTME3": {
+      "balance": 1036,
+      "createdAt": "24/02/2021",
+      "email": "matej.lazarevich@gmail.com",
+      "feeType": 2,
+      "firstName": "Matej",
+      "hasFreeReservation": false,
+      "lastName": "Lazarevic",
+      "password": "123123",
+      "payments": {
+        "-N0XDYaCRvt2qGdaOlaQ": {
+          "amount": 1000,
+          "date": "27/4/2022",
+          "type": 1
+        },
+        "-N0lxppspN3PWyEYfdQC": {
+          "amount": "15",
+          "date": "28/04/2022",
+          "type": 1
+        },
+        "-N0ly65_wsgf9T2kQSg-": {
+          "amount": 90,
+          "date": "28/04/2022",
+          "type": 4
+        },
+        "-N0lyaA1MVwD5HtiOuyk": {
+          "amount": 90,
+          "date": "28/04/2022",
+          "type": 4
+        },
+        "-N0lzY7Oaum1-DH4JUcl": {
+          "amount": 90,
+          "date": "28/04/2022",
+          "type": 4
+        },
+        "-N0m-w0sFUlYAvt97YfB": {
+          "amount": 90,
+          "date": "28/04/2022",
+          "type": 4
+        },
+        "-N0m2HsQUOQ6iy-Id5rn": {
+          "amount": 90,
+          "date": "28/04/2022",
+          "type": 4
+        },
+        "-N0m_UIW64pOHQzuj4Xc": {
+          "amount": 0,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0m_XzDKvyMX2itYKVz": {
+          "amount": 0,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0m__cvcqCJQQurpiMt": {
+          "amount": 0,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mdNxwTRGIKKueoDA6": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mf52TiPV8Hg3CEwvP": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mfBxJ3SvAjXERAwDq": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mfIx3OHyp-6a59Gsk": {
+          "amount": 10,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mfMUJW_SSblLtFtJg": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0mfX7xa0qzac8-uee8": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0qyUYUNsTNhMQEjh0v": {
+          "amount": 10,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0qyYgj20l--tSC06sg": {
+          "amount": 20,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0qzD_d4IhxAcLubqWM": {
+          "amount": 10,
+          "date": "29/04/2022",
+          "type": 5
+        },
+        "-N0rSI29QFQp1fpwP9LL": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSPzjqeTqV4z_pYkN": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSSRh5OcR9VWyTcxY": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSU2W38wR5kUmfVsi": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rSY_WS5Ka6KWbeJWJ": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSZLMzAkK2aGHmHCY": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rS_6QcUcMXq0tudke": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rS_nmRe8x9kpwlFO7": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSaaN-lalGPzNttbv": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rSdgdYnqG4X5dugmq": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rSoUJaPqtGfuQCF7x": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rSrDGd8Wkkd-sEB64": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rSs8QdQPfuhMDsRtn": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rSsqFVKc-xjHi2USr": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rZSxO5gO2eKwCLtW0": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rZYZcjkTxS_EDOPRe": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rcurTv8SprbQSx4p0": {
+          "amount": "1231",
+          "date": "30/04/2022",
+          "type": 1
+        },
+        "-N0rebPMFwCtwUCXzZei": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0recuCW8lZfcwi9ivM": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0reduKvILqCWhtcGLu": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0ref-h3FdqZR7PWQJR": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0reg2n0XYC4yi9YKp6": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0reh2vQFXmPGyEQo38": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0reiLzR8s04lsIrHRz": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rejLv7zW2HgJFz-vN": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rek3zgoecXcmtTlG0": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rekkZ6lj3X0MbXkCQ": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0relP77b2EkilqlIzI": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rem5u3rG-j-D1_3gc": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0reoGKxFAr04QQAbJo": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0reor81GumBqb7HKSB": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rgvpASjybGfr0FAoT": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rhd-FyO4AQW9hy6kM": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0riYhrj04u6cmZdnfr": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0riZkGbShC4KdBwekD": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0ri_X1dSnxGTGOOa5x": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0ria9sJtILA5cc1-IX": {
+          "amount": 90,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rihjqNlgnerYebU_5": {
+          "amount": "300",
+          "date": "30/04/2022",
+          "type": 2
+        },
+        "-N0ripsKvmUjqhJI_EsC": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0riqhO-Dgl7F6qvsyd": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0rirwJXkmlce4VtmDy": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N0ritmLC6genjzvjagC": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0riuY_OoBavxUtERAE": {
+          "amount": 10,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0rivCVyJwCm0HOQ2bA": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 5
+        },
+        "-N0v-LNy8bl6ixH7iNfr": {
+          "amount": 20,
+          "date": "30/04/2022",
+          "type": 4
+        },
+        "-N1-sRcp_J688AQhC1IU": {
+          "amount": 10,
+          "date": "01/05/2022",
+          "type": 4
+        },
+        "-N10g6R7FwsCrs8sHvur": {
+          "amount": 10,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N10hAPz9XTUEcdpc508": {
+          "amount": 20,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N10q5-ZCq3jVNnH6t0n": {
+          "amount": "200",
+          "date": "02/05/2022",
+          "period": "05/2022",
+          "type": 3
+        },
+        "-N15Mxg3UzuSNjTlQhsS": {
+          "amount": 10,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N15w1lQ7P_3Mm-WfbOS": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N15wEk1fgsu3WTa8mUD": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N164fvsycvZykhlFLto": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N16CpuhTFMHZWR_9CAS": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N16CqUC3MTfXvUjSm57": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N16Cs5yXU6Lr42fGs5Q": {
+          "amount": 20,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N16Ct1d5WSy_sPD0D6z": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N16DAVsa9xAJTApkk2p": {
+          "amount": 10,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N195OPZ5_hLtwS4C8So": {
+          "amount": "200",
+          "date": "03/05/2022",
+          "type": 1
+        },
+        "-N1962fgaftCHmiHUHTf": {
+          "amount": 35,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N196835RwYsC6R42zfH": {
+          "amount": 35,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N1Tobfi5MsRaFoqoES_": {
+          "amount": 35,
+          "date": "07/05/2022",
+          "type": 4
+        },
+        "-N1Tou-KXhgDbZEcuODE": {
+          "amount": 10,
+          "date": "07/05/2022",
+          "type": 4
+        },
+        "-N1Tp-BXc-qmZT07LayB": {
+          "amount": 10,
+          "date": "07/05/2022",
+          "type": 5
+        },
+        "-N28G4YM-Y_DtAG1xoaU": {
+          "amount": 10,
+          "date": "15/05/2022",
+          "type": 4
+        },
+        "-N28GQoiIqNDbndQrwUJ": {
+          "amount": 10,
+          "date": "15/05/2022",
+          "type": 4
+        },
+        "-N3LMMFS26uZfCftMzXi": {
+          "amount": 10,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "-N3LMxo99P0wC9TlR6Pe": {
+          "amount": 20,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "-N3LMyhoIEFuVM71xB-p": {
+          "amount": 20,
+          "date": "30/05/2022",
+          "type": 5
+        },
+        "-N42w4jKA-ayLs3z_Vd1": {
+          "amount": 35,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N5A_UUBvIMPokhqO6eS": {
+          "amount": 60,
+          "date": "22/06/2022",
+          "type": 4
+        },
+        "-N5A_WAwNfBslQzhPlC1": {
+          "amount": 40,
+          "date": "22/06/2022",
+          "type": 4
+        },
+        "-ND9YJOl6t2F7EReUl9h": {
+          "amount": 10,
+          "date": "29/09/2022",
+          "type": 4
+        },
+        "-NHLwCKY0NvtiwdiRXrg": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwD56-ocrSPFHGDAE": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwDlrwn-oCzqfQcBz": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwEVAS-0aji5_68du": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwOkWZVjAga_RFg1K": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwPOF0O18x6a8kSWA": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwQOIYcKNh6caiaVY": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NHLwR2ROvyDFf772E-c": {
+          "amount": 40,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NRYkbRNLN1iZX4K7NvH": {
+          "amount": "1000",
+          "date": "27/03/2023",
+          "type": 1
+        },
+        "-NRYloZlG7G2FBAdZhg0": {
+          "amount": 60,
+          "date": "27/03/2023",
+          "type": 4
+        },
+        "-NRYpRxztaAS7QqdMx8M": {
+          "amount": 40,
+          "date": "27/03/2023",
+          "type": 4
+        },
+        "-NRncSlnPhUOGxwU3Tp0": {
+          "amount": 40,
+          "date": "30/03/2023",
+          "type": 4
+        },
+        "-NRncaqLatiGM5xxQsfd": {
+          "amount": 40,
+          "date": "30/03/2023",
+          "type": 4
+        }
+      },
+      "phone": "0913322100",
+      "userType": 1
+    },
+    "PuN45UeNk7cP292mtNcCQ4jiuBf1": {
+      "createdAt": "02/05/2022",
+      "email": "trener@givmail.com",
+      "feeType": 4,
+      "firstName": "Trener",
+      "hasFreeReservation": false,
+      "lastName": "Beljo",
+      "payments": {
+        "jnF-9ix6CjxgZrqiYLMyU": {
+          "amount": 0,
+          "date": "02/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 3
+    },
+    "QN3EbwdYhXcP8VqdxkxVGd3GyHy1": {
+      "balance": 200,
+      "createdAt": "03/05/2022",
+      "email": "spajicneven9@gmail.com",
+      "feeType": 2,
+      "firstName": "Neven",
+      "hasFreeReservation": false,
+      "lastName": "Spajic",
+      "payments": {
+        "-N1A2U6GaBQoif5isl0X": {
+          "amount": "200",
+          "date": "03/05/2022",
+          "type": 1
+        },
+        "-N1A2ezOGI1yVQ0JwNEo": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N1A3NovnuN54f36cdxX": {
+          "amount": "100",
+          "date": "03/05/2022",
+          "period": "05/2022",
+          "type": 3
+        },
+        "-N1ACNGj5guec6m5-p9h": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "vLbbSEMBW5rIdvnPALw5O": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 1
+    },
+    "TvSEyoB3vIUqvHLGTW7XjkjVuW02": {
+      "balance": 97440,
+      "createdAt": "25/04/2022",
+      "email": "tk.djakovo@gmail.com",
+      "feeType": 2,
+      "firstName": "Gazda",
+      "hasFreeReservation": true,
+      "lastName": "Administrator",
+      "payments": {
+        "-N0XDYaCRvt2qGdaOlaQ": {
+          "amount": "100000",
+          "date": "25/04/2022",
+          "type": 1
+        },
+        "-N10r6rumiqi2AyxwR1-": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N12pjhXuOnhrxXPn6nQ": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N14LqnFh1wg75QQ6pdv": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N14cctzLlfptRu7JTt2": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N14wHEQnfqzYR9jFFMp": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N15N1JT2ku8fylt0qpp": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N15ToZHZTTTJsiBCJJx": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "-N15xXeL2c8IoU1AVmuc": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N15xYL1W_rpO2V2ryAF": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N15xZMznwkj-f5dIqFO": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N16DYF-Jf_3Ueiji8OT": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N1A3-UOANFJOmDEi4nu": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N1A4VPp1Smgpw8ZSnO3": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N1A4WT7YEAcEmpXDtAp": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 5
+        },
+        "-N1A5WYAxV3oJYtxjC2R": {
+          "amount": 90,
+          "date": "03/05/2022",
+          "type": 4
+        },
+        "-N1Ez-PaKafigGdwn5uR": {
+          "amount": 90,
+          "date": "04/05/2022",
+          "type": 4
+        },
+        "-N1EzSC8BdSX7l_T1vtE": {
+          "amount": 0,
+          "date": "04/05/2022",
+          "type": 5
+        },
+        "-N1EzWtN-zSTBU0987r-": {
+          "amount": 90,
+          "date": "04/05/2022",
+          "type": 5
+        },
+        "-N1VDzKss68wFm3ZJmth": {
+          "amount": 90,
+          "date": "07/05/2022",
+          "type": 4
+        },
+        "-N1VEAGfCwH9yd4emWmu": {
+          "amount": 90,
+          "date": "07/05/2022",
+          "type": 4
+        },
+        "-N3LMI4B64gBQ2iHCdc3": {
+          "amount": 90,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "-N3LMKGL47JrjHiqglnv": {
+          "amount": 90,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "-N412RMnTGDqhuOpjVxa": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N413THv9XCx96PWyHU_": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N417Z7fchTyqEqLwFNp": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N418m1FdpT92BnMp53a": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N418nHa4I9lWvMH2PV_": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N419CELZCsXEnKRqR65": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N419rgPbs24s3DC0MGu": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N41IWYdByDOGNMuSpVu": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N41POj3fWtRb4R9YdPK": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 5
+        },
+        "-N41Rrohx8-ucmerX92H": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N42azBLoR2RrHYsNx-L": {
+          "amount": 90,
+          "date": "08/06/2022",
+          "type": 4
+        },
+        "-N472znP0RUfzUmxdE--": {
+          "amount": 90,
+          "date": "09/06/2022",
+          "type": 4
+        },
+        "-N4733uoEnsBzPppCuKS": {
+          "amount": 90,
+          "date": "09/06/2022",
+          "type": 4
+        },
+        "-N4735NYxtWWJNG3hCdJ": {
+          "amount": 90,
+          "date": "09/06/2022",
+          "type": 4
+        },
+        "-N47370hfzuu9-eLLxqf": {
+          "amount": 90,
+          "date": "09/06/2022",
+          "type": 4
+        },
+        "-N4Hh5IWvQeZuAZb1QvO": {
+          "amount": 90,
+          "date": "11/06/2022",
+          "type": 4
+        },
+        "-N4MfWopf2jXVdjvDGlv": {
+          "amount": 90,
+          "date": "12/06/2022",
+          "type": 4
+        },
+        "-N4ThwrG_CDOz9jGuYmE": {
+          "amount": 90,
+          "date": "13/06/2022",
+          "type": 4
+        },
+        "-N4W6S6UlICuK4Yod2Hf": {
+          "amount": 90,
+          "date": "14/06/2022",
+          "type": 4
+        },
+        "-N4Xz1t15AmGsbVx8MH9": {
+          "amount": 90,
+          "date": "14/06/2022",
+          "type": 4
+        },
+        "-N4bjag8pWyFSQpRJF3b": {
+          "amount": 90,
+          "date": "15/06/2022",
+          "type": 4
+        },
+        "-N4bje_wB3BwnqxfFUYd": {
+          "amount": 90,
+          "date": "15/06/2022",
+          "type": 5
+        },
+        "-N4q6aempBrbhytIBzah": {
+          "amount": 90,
+          "date": "18/06/2022",
+          "type": 4
+        },
+        "-N5AcZr61J3NXKRRhaiN": {
+          "amount": 80,
+          "date": "22/06/2022",
+          "type": 4
+        },
+        "-N5BL7mQujpH8FmIln5f": {
+          "amount": "200",
+          "date": "22/06/2022",
+          "type": 1
+        },
+        "-N5BL9PnCgxgc3QW8g3C": {
+          "amount": "250",
+          "date": "22/06/2022",
+          "type": 2
+        },
+        "-N5BLAmlB4wcZKQARqDo": {
+          "amount": "300",
+          "date": "22/06/2022",
+          "period": "06/2022",
+          "type": 3
+        },
+        "-N5BLBge2TneR-11EyTc": {
+          "amount": "200",
+          "date": "22/06/2022",
+          "type": 1
+        },
+        "-N5BLCoF1_W1NG86MhPD": {
+          "amount": "100",
+          "date": "22/06/2022",
+          "type": 2
+        },
+        "-N5EvwBUv3aFTao15GKZ": {
+          "amount": 80,
+          "date": "23/06/2022",
+          "type": 4
+        },
+        "-NFjmdcsF0QqO-yzfbQf": {
+          "amount": 80,
+          "date": "31/10/2022",
+          "type": 4
+        },
+        "-NFjyfNqsj2xHKl6xdoo": {
+          "amount": 80,
+          "date": "31/10/2022",
+          "type": 4
+        },
+        "-NGmiaat5axWq20ixZ4W": {
+          "amount": 80,
+          "date": "13/11/2022",
+          "type": 4
+        },
+        "-NHLsaigVrvWAs6aFN7g": {
+          "amount": 80,
+          "date": "20/11/2022",
+          "type": 4
+        },
+        "-NRYll672Lo9Hc7jSLHS": {
+          "amount": 80,
+          "date": "27/03/2023",
+          "type": 4
+        },
+        "-NRndBKCD6SBnhI7xT5m": {
+          "amount": 80,
+          "date": "30/03/2023",
+          "type": 4
+        },
+        "vGMmcrVngixG_KNc_85kP": {
+          "amount": 0,
+          "date": "25/04/2022",
+          "type": 5
+        }
+      },
+      "phone": "0913322100",
+      "userType": 2
+    },
+    "W4MpxhwC3oVbM88mdpene8uQCH32": {
+      "createdAt": "03/05/2022",
+      "email": "miso.mesic@inspecto.hr",
+      "feeType": 2,
+      "firstName": "Miso",
+      "hasFreeReservation": false,
+      "lastName": "Mesic",
+      "payments": {
+        "S0ZCuZN52SBas5T-iyn5j": {
+          "amount": 0,
+          "date": "03/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "123123",
+      "userType": 1
+    },
+    "goI0cEtyPWNkAdtxMXWHMYP2b512": {
+      "balance": 1000,
+      "createdAt": "02/05/2022",
+      "email": "matz.v1t@gmail.com",
+      "feeType": 3,
+      "firstName": "Rođo",
+      "hasFreeReservation": false,
+      "lastName": "Feđo",
+      "payments": {
+        "-N10ptztIyg3zFY0oAXz": {
+          "amount": "1000",
+          "date": "02/05/2022",
+          "type": 1
+        },
+        "-N10q7UYPSS4uwJk-dr1": {
+          "amount": "200",
+          "date": "02/05/2022",
+          "period": "05/2022",
+          "type": 3
+        },
+        "-N10qCu5fW5Mu3e0xyWb": {
+          "amount": 90,
+          "date": "02/05/2022",
+          "type": 4
+        },
+        "pGHueSeOtoZLQng_29nQQ": {
+          "amount": 0,
+          "date": "02/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "0913322100",
+      "userType": 1
+    },
+    "rcKKYFqmHWfLtfUCl1ozkLRTFJ52": {
+      "balance": 500,
+      "createdAt": "30/05/2022",
+      "email": "roger.tenisac@gmail.com",
+      "feeType": 2,
+      "firstName": "Roger",
+      "hasFreeReservation": false,
+      "lastName": "Federer",
+      "payments": {
+        "-N3LNWtfyQ3eDl0woef9": {
+          "amount": "500",
+          "date": "30/05/2022",
+          "type": 1
+        },
+        "-N3LNaq-SgvwVFOa9hfK": {
+          "amount": "200",
+          "date": "30/05/2022",
+          "period": "05/2022",
+          "type": 3
+        },
+        "-N3LNsCjAwH00lxjxRkp": {
+          "amount": 90,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "-N3LNx6ojFhlohWWSbfz": {
+          "amount": 90,
+          "date": "30/05/2022",
+          "type": 5
+        },
+        "-N3LVCiJb9SMn2Q0Ffff": {
+          "amount": 90,
+          "date": "30/05/2022",
+          "type": 4
+        },
+        "35S_Vw29Sz9W2zSaTSIY2": {
+          "amount": 0,
+          "date": "30/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "091123123",
+      "userType": 1
+    },
+    "zafQSLMjrHQ6N79dHIWaQM03XRr2": {
+      "createdAt": "05/05/2022",
+      "email": "beljan.mario@gmail.com",
+      "feeType": 4,
+      "firstName": "Mario",
+      "hasFreeReservation": false,
+      "lastName": "Beljan",
+      "payments": {
+        "iGtIIAnl8ATvruT9GYKBX": {
+          "amount": 0,
+          "date": "05/05/2022",
+          "type": 5
+        }
+      },
+      "phone": "6666666",
+      "userType": 3
+    }
+  }
+}

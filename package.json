@@ -1,0 +1,36 @@
+{
+  "name": "poor-mans-firebase-backup",
+  "version": "1.0.0",
+  "description": "Backup your Firebase Realtime database and send the dump to your email.",
+  "main": "index.js",
+  "scripts": {
+    "backup": "node scripts/backup.js",
+    "stats": "./scripts/get_stats.sh",
+    "email": "node scripts/send_email.js",
+    "all": "npm run backup && npm run email"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekadentno/poor-mans-firebase-backup.git"
+  },
+  "keywords": [
+    "firebase",
+    "backup"
+  ],
+  "author": "dekadentno",
+  "bugs": {
+    "url": "https://github.com/dekadentno/poor-mans-firebase-backup/issues"
+  },
+  "engines" : { 
+    "npm" : ">=9.0.0",
+    "node" : ">=18.0.0"
+  },
+  "homepage": "https://github.com/dekadentno/poor-mans-firebase-backup#readme",
+  "dependencies": {
+    "firebase-admin": "^11.6.0",
+    "nodemailer": "^6.9.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
