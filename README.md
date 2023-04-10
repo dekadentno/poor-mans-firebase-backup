@@ -36,7 +36,7 @@ npm run all
 
 Here is an example cron job that executes the npm run test command every day at 23:59.
 
-```
+```bash
 # open the crontab editor
 crontab -e
 
