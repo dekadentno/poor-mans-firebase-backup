@@ -41,5 +41,5 @@ Here is an example cron job that executes the npm run test command every day at 
 crontab -e
 
 # add the following line to the end of the file, with the real path
-59 23 * * * /usr/bin/npm run all --prefix /path/to/your/project
+59 23 * * * $(which npm) run all --prefix /path/to/your/project
 ```
